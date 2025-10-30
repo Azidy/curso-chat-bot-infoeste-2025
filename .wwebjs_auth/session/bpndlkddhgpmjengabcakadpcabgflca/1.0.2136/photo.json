@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "campaigns": [
+    {
+      "campaignId": "6ea5342e-d162-4d84-96e3-4619d1b319e6",
+      "logo": {
+        "imageUrl": "f61e0993-a614-4a26-a80c-993926c90e1f/349c181b-d4bb-41d1-9b61-1e08e2c5a941.png",
+        "destinationUrl": "https://brave.com/podcast/e92/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+        "alt": "The Brave Technologist Podcast: Episode 92 - Inside the Linux Foundation's Open-Source Movement with Daniela Barbosa",
+        "companyName": "The Brave Technologist Podcast"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "f61e0993-a614-4a26-a80c-993926c90e1f/76addb91-0dd8-4028-a419-f0f6793fab8d.jpg",
+          "creativeInstanceId": "b8108bc6-b0de-47ac-a7ed-ace66863084c",
+          "focalPoint": {
+            "x": 1305,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "eba03ec3-521c-4456-acd0-b57a27d43d13/44a4ad8f-1e21-46c0-875c-c9f72987e3b3.jpg",
+          "creativeInstanceId": "447f07d3-2b3b-4ae4-bf93-b48b1a96a520",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "eba03ec3-521c-4456-acd0-b57a27d43d13/349c181b-d4bb-41d1-9b61-1e08e2c5a941.png",
+            "destinationUrl": "https://brave.com/podcast/e92/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+            "alt": "The Brave Technologist Podcast: Episode 92 - Inside the Linux Foundation's Open-Source Movement with Daniela Barbosa",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        },
+        {
+          "imageUrl": "d7c9ff99-562c-40d0-8abf-b93ff4c39a78/e29f908a-3088-45ee-b683-82b2b9c7aebe.jpg",
+          "creativeInstanceId": "8e5ae1bc-3e49-4158-80de-f9b4dcadd9e6",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "d7c9ff99-562c-40d0-8abf-b93ff4c39a78/349c181b-d4bb-41d1-9b61-1e08e2c5a941.png",
+            "destinationUrl": "https://brave.com/podcast/e92/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+            "alt": "The Brave Technologist Podcast: Episode 92 - Inside the Linux Foundation's Open-Source Movement with Daniela Barbosa",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        }
+      ]
+    }
+  ],
+  "campaigns2": [
+    {
+      "campaignId": "6ea5342e-d162-4d84-96e3-4619d1b319e6",
+      "logo": {
+        "imageUrl": "f61e0993-a614-4a26-a80c-993926c90e1f/349c181b-d4bb-41d1-9b61-1e08e2c5a941.png",
+        "destinationUrl": "https://brave.com/podcast/e92/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+        "alt": "The Brave Technologist Podcast: Episode 92 - Inside the Linux Foundation's Open-Source Movement with Daniela Barbosa",
+        "companyName": "The Brave Technologist Podcast"
+      },
+      "wallpapers": [
+        {
+          "imageUrl": "f61e0993-a614-4a26-a80c-993926c90e1f/76addb91-0dd8-4028-a419-f0f6793fab8d.jpg",
+          "creativeInstanceId": "b8108bc6-b0de-47ac-a7ed-ace66863084c",
+          "focalPoint": {
+            "x": 1305,
+            "y": 720
+          }
+        },
+        {
+          "imageUrl": "eba03ec3-521c-4456-acd0-b57a27d43d13/44a4ad8f-1e21-46c0-875c-c9f72987e3b3.jpg",
+          "creativeInstanceId": "447f07d3-2b3b-4ae4-bf93-b48b1a96a520",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "eba03ec3-521c-4456-acd0-b57a27d43d13/349c181b-d4bb-41d1-9b61-1e08e2c5a941.png",
+            "destinationUrl": "https://brave.com/podcast/e92/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+            "alt": "The Brave Technologist Podcast: Episode 92 - Inside the Linux Foundation's Open-Source Movement with Daniela Barbosa",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        },
+        {
+          "imageUrl": "d7c9ff99-562c-40d0-8abf-b93ff4c39a78/e29f908a-3088-45ee-b683-82b2b9c7aebe.jpg",
+          "creativeInstanceId": "8e5ae1bc-3e49-4158-80de-f9b4dcadd9e6",
+          "focalPoint": {
+            "x": 1280,
+            "y": 720
+          },
+          "logo": {
+            "imageUrl": "d7c9ff99-562c-40d0-8abf-b93ff4c39a78/349c181b-d4bb-41d1-9b61-1e08e2c5a941.png",
+            "destinationUrl": "https://brave.com/podcast/e92/?mtm_source=brave-browser&mtm_medium=brave-ntp&mtm_campaign=brave-technologist&mtm_content=podcast",
+            "alt": "The Brave Technologist Podcast: Episode 92 - Inside the Linux Foundation's Open-Source Movement with Daniela Barbosa",
+            "companyName": "The Brave Technologist Podcast"
+          }
+        }
+      ]
+    }
+  ]
+}
